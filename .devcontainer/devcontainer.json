@@ -21,7 +21,10 @@
 				"ms-azuretools.vscode-azurestaticwebapps",
 				"ms-dotnettools.csharp",
 				"ms-python.python",
-				"dbaeumer.vscode-eslint"
+				"dbaeumer.vscode-eslint",
+				"octref.vetur",
+				"Vue.volar",
+				"dariofuzinato.vue-peek"
 			]
 		}
 	},
